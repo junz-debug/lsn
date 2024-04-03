@@ -1,2 +1,2 @@
 # lsn
-code for LSN
+code for LSN  "Out-of-Distribution Detection with Negative Prompts" ICLR2024
