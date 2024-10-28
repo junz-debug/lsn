@@ -113,8 +113,7 @@ def load(name: str, device: Union[str, torch.device] = "cuda" if torch.cuda.is_a
     else:
         raise RuntimeError(f"Model {name} not found; available models = {available_models()}")
     '''
-    # model_path = 'E:/code/lsn/clip/RN50.pt'
-    model_path = 'E:/code/lsn/clip/ViT-B-16.pt'
+    # model_path = 'E:/code/lsn/clip/ViT-B-16.pt'
 
     try:
         # loading JIT archive
